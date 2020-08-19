@@ -1,0 +1,12 @@
+//this is a json file that represent the config of your script runner engine;
+{
+    "name": "your project name",
+    "scripts": {
+        "build": "node build.js",
+        "test": "node test.js",
+        "deploy": "node deploy.js"
+    }
+
+}
+
+//the name and the scripts are the keywords;
